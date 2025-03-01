@@ -22,4 +22,4 @@ code:
 ----
 ![](../src/rug_banner_100px_B39570.svg)
 
-copyright: 2025 by sleet.near
+copyright: 2025 by sleet.near, in partnership with huggies.near
