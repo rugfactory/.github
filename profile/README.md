@@ -18,8 +18,20 @@ rugfactory (website)
 code:
 
 
+✉️ contact me today for custom token solutions on near
 
 ----
 ![](../src/rug_banner_100px_B39570.svg)
+
+rugfactory
+🔗 https://rugfactory.near.page/
+<br/>
+🐱 https://github.com/rugfactory
+<br/>
+𝕏 https://x.com/rugfactory
+<br/>
+〇 https://rugfactory.near.social
+<br/>
+✉️ sleetdesign.nft@ud.me
 
 copyright: 2025 by sleet.near, in partnership with huggies.near
