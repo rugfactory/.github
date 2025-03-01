@@ -1,5 +1,6 @@
-# RUGFACTORY
+### RUGFACTORY
 where tokens have short lifespans
+<br/>
 ![](../src/rug_banner_100px_B39570.svg)
 
 token-factory
