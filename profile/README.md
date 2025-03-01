@@ -28,7 +28,7 @@ rugfactory
 <br/>
 🐱 https://github.com/rugfactory
 <br/>
-𝕏 https://x.com/rugfactory
+𝕏 https://x.com/rugfactoryfun
 <br/>
 〇 https://rugfactory.near.social
 <br/>
