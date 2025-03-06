@@ -14,6 +14,7 @@ FT
 <br/>
 🍴 fork: https://github.com/rugfactory/FT
 
+---
 ### RUGFACTORY
 
 fungible_token
