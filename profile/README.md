@@ -2,28 +2,25 @@
 where tokens have short lifespans
 
 
-👋 hello
-<br/>
-this project is currently a work in progress
-<br/>
-my goal: to create easier solutions for ruggers on near.
-<br/>
-my progress: currently i have forked some near examples because that is a great place to get started.
-thought i did a great job of optimizing the size of the token factory contract, but then discovered that it didn't work.
-<br/>
-next steps: to continue learning, and to build custom contracts that are smaller.
-
-
-Also along the way I hope to fully document everything. I have added documentation to the factory contract, and...
-<br/>
-I promise one day a solution so you don't have to create tokens form the cli.
-
 ---
 ![](../src/rug_banner_100px_B39570.svg)
+### NEAR EXAMPLES
 
 token-factory
 <br/>
-code: https://github.com/rugfactory/token-factory
+🍴 fork: https://github.com/rugfactory/token-factory
+
+FT
+<br/>
+🍴 fork: https://github.com/rugfactory/FT
+
+### RUGFACTORY
+
+fungible_token
+<br/>
+a fungible token for rugfactory with a few extra methods
+<br/>
+🐱 code: https://github.com/rugfactory/fungible_token
 
 rugfactory_contract
 <br/>
