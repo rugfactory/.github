@@ -22,9 +22,10 @@ a fungible token for rugfactory with a few extra methods
 <br/>
 🐱 code: https://github.com/rugfactory/fungible_token
 
-rugfactory_contract
+rugfactory_factory
+a factory for creating tokens and managing liquidity
 <br/>
-code:
+🐱 code:
 
 rugfactory (website)
 <br/>
