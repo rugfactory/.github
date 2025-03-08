@@ -26,7 +26,7 @@ a fungible token for rugfactory with a few extra methods
 rugfactory_factory
 a factory for creating tokens and managing liquidity
 <br/>
-🐱 code:
+🐱 code: https://github.com/rugfactory/rugfactory_factory
 
 rugfactory (website)
 <br/>
