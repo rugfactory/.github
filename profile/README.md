@@ -29,9 +29,11 @@ a factory for creating tokens and managing liquidity
 <br/>
 🐱 code: https://github.com/rugfactory/rugfactory_factory
 
-rugfactory (website)
+rugfactory - beta app website
 <br/>
-code:
+🔗 https://rugfactory.on-fleek.app/
+<br/>
+🐱 code: https://github.com/rugfactory/rugfactory
 
 
 ✉️ contact me today for custom token solutions on near
