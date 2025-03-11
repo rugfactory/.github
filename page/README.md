@@ -35,3 +35,10 @@ npx web4-deploy page/index.html rugfactory.testnet
 npx web4-deploy page/index.html rugfactory.near
 
 ````
+
+
+
+---
+
+
+copyright: 2025 by sleet.near, in partnership with huggies.near
