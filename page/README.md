@@ -27,9 +27,9 @@ web4 dist info
 
 ```sh
 # web 4 contract
-near deploy --wasmFile page/web4-min.wasm --accountId rugfactory.testnet
+near deploy --wasmFile page/web4-min.wasm rugfactory.testnet
 
-near deploy --wasmFile page/web4-min.wasm --accountId rugfactory.near
+near deploy --wasmFile page/web4-min.wasm rugfactory.near
 # html page
 npx web4-deploy page/index rugfactory.testnet
 npx web4-deploy page/index rugfactory.near
