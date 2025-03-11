@@ -31,8 +31,8 @@ near deploy --wasmFile page/web4-min.wasm rugfactory.testnet
 
 near deploy --wasmFile page/web4-min.wasm rugfactory.near
 # html page
-npx web4-deploy page/index rugfactory.testnet
-npx web4-deploy page/index rugfactory.near
+npx web4-deploy page/web4 rugfactory.testnet
+npx web4-deploy page/web4 rugfactory.near
 
 ```
 
