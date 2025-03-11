@@ -34,7 +34,7 @@ near deploy --wasmFile page/web4-min.wasm --accountId rugfactory.near
 npx web4-deploy page/index.html rugfactory.testnet
 npx web4-deploy page/index.html rugfactory.near
 
-````
+```
 
 
 
