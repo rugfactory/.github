@@ -47,6 +47,8 @@ rugfactory
 <br/>
 𝕏 https://x.com/rugfactoryfun
 <br/>
+✈️ https://t.me/huggiesdotnear
+<br/>
 〇 https://rugfactory.near.social
 <br/>
 ✉️ sleetdesign.nft@ud.me
