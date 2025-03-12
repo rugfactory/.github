@@ -1,5 +1,5 @@
 ### RUGFACTORY
-where tokens have short lifespans
+where tokens have short lifespans, or a mind of their own???
 
 
 ---
@@ -17,6 +17,12 @@ FT
 ---
 ### RUGFACTORY
 
+basic_fungible_token
+<br/>
+a basic fungible token
+<br/>
+https://github.com/rugfactory/basic_fungible_token
+
 fungible_token
 <br/>
 a fungible token for rugfactory with a few extra methods
@@ -25,7 +31,7 @@ a fungible token for rugfactory with a few extra methods
 
 rugfactory_factory
 <br/>
-a factory for creating tokens and managing liquidity
+a factory for creating tokens and managing liquidity, uses the fungible_token
 <br/>
 🐱 code: https://github.com/rugfactory/rugfactory_factory
 
@@ -35,8 +41,16 @@ rugfactory - beta app website
 <br/>
 🐱 code: https://github.com/rugfactory/rugfactory
 
+---
 
-✉️ contact me today for custom token solutions on near
+honeypot_token
+<br/>
+an attempt at a honeypot token on near - work in progress
+<br/>
+https://github.com/rugfactory/honeypot_token
+
+honeypot - a ui for adding liquidity
+
 
 ----
 ![](../src/rug_banner_100px_B39570.svg)
@@ -54,5 +68,8 @@ rugfactory
 〇 https://rugfactory.near.social
 <br/>
 ✉️ sleetdesign.nft@ud.me
+
+
+✉️ contact me today for custom token solutions on near
 
 copyright: 2025 by sleet.near, in partnership with huggies.near
