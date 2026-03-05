@@ -35,11 +35,7 @@ a factory for creating tokens and managing liquidity, uses the fungible_token
 <br/>
 🐱 code: https://github.com/rugfactory/rugfactory_factory
 
-rugfactory - beta app website
-<br/>
-🔗 https://rugfactory.on-fleek.app/
-<br/>
-🐱 code: https://github.com/rugfactory/rugfactory
+
 
 ---
 
@@ -49,7 +45,6 @@ an attempt at a honeypot token on near - work in progress
 <br/>
 https://github.com/rugfactory/honeypot_token
 
-honeypot - a ui for adding liquidity
 
 
 ----
