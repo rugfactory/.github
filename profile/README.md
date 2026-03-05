@@ -14,6 +14,10 @@ FT
 <br/>
 🍴 fork: https://github.com/rugfactory/FT
 
+global-ft-contract
+<br/>
+https://github.com/INTEARnear/global-ft-contract
+
 ---
 ### RUGFACTORY
 
